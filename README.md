@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 IT Specialist and Web Developer
 -------------------------------
 
-I've been learning to code for about 2 years now, I've been studying practicing my IT skills since before I got to University.
+I've been learning to code for about 2 years now, I've been studying and practicing my IT skills since before I got to University.
 
 * 🌍  I'm based in Florence, Alabama
 * ✉️  You can contact me at [drwells0109@gmail.com](mailto:drwells0109@gmail.com)
