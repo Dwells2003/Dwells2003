@@ -30,6 +30,6 @@ src="https://img.shields.io/github/followers/Dwells2003?logo=github&style=for-th
 
 <a href="http://www.github.com/Dwells2003"><img src="https://github-readme-stats.vercel.app/api?username=Dwells2003&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Dwells2003's GitHub stats" /></a>
 
-<b>Top Repositories</b>
+<b>Sample Project</b>
 
 <div width="100%" align="center"><a href="https://github.com/Dwells2003/dev-easy-project" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Dwells2003&repo=dev-easy-project&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
